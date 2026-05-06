@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+venv/
+env/
+.venv/
+
+.pytest_cache/
+.ruff_cache/
+.coverage
+
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Generated artifacts
+data/input/*.xlsx
+data/output/*
+data/logs/*
+!data/input/.gitkeep
+!data/output/.gitkeep
+!data/logs/.gitkeep
