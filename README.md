@@ -200,4 +200,4 @@ If you're hiring for a role that automates back-office processes — operations,
 
 MIT — see [LICENSE](LICENSE).
 
-> **A note on confidentiality:** The bots I build at Growth 7 are proprietary to the company. This repository contains zero proprietary code, data, or business logic. It demonstrates the **patterns and engineering practices** I apply professionally, using synthetic data and public APIs. Companies should expect new hires to bring their patterns and discipline — not their previous employer's intellectual property.
+> **A note on confidentiality:** The bots I build at my current employer are proprietary to the company. This repository contains zero proprietary code, data, or business logic. It demonstrates the **patterns and engineering practices** I apply professionally, using synthetic data and public APIs. Companies should expect new hires to bring their patterns and discipline — not their previous employer's intellectual property.
